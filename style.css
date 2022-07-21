@@ -146,6 +146,7 @@ ul li.active a{
     background-color: white;
     min-width: 120px;
     padding: 8px 1px;
+    z-index: 1;
   }
   
   .dropdown-content a {
